@@ -1,0 +1,169 @@
+
+
+@media (min-width: 320px) and (max-width: 480px){
+.header-txt h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.header-txt p {
+    margin-left: 10px;
+}
+.header-txt .btn-info {
+    font-size: 17px;
+    padding: 12px 20px;
+}
+.dance h1 {
+    font-size: 50px;
+}
+.card {
+    margin-left: 20px;
+}
+.pricing h1 {
+    font-size: 50px;
+}
+.pricing .pss {
+    font-size: 14px;
+}
+.onm {
+    margin-top: 15px;
+}
+.img-fluid {
+    max-width: 180px;
+    height: auto;
+}
+.amazing .img-fluid {
+    width: 350px;
+}
+.amazon {
+  padding: 0px;
+}
+.amazing h1 {
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.proms a {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+.promo a {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+.best h1 {
+    font-size: 40px;
+    margin-top: 20px;
+}
+.best .img-fluid {
+    width: 350px;
+    margin-top: 30px;
+}
+.subscribe .btn-primary {
+    padding: 7px 5px;
+    position: none;
+}
+.our h1 {
+    font-size: 40px;
+}
+.subscribe input {
+    width: 45%;
+    padding: 7px 1px;
+}
+.simon h1 {
+    font-size: 40px;
+}
+.subscribe h1 {
+    font-size: 40px;
+}
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+.header-txt h1 {
+    font-size: 50px;
+    text-align: center;
+}
+.header-txt p {
+    margin-left: 10px;
+}
+.header-txt .btn-info {
+    font-size: 17px;
+    padding: 12px 20px;
+}
+.dance h1 {
+    font-size: 50px;
+}
+.card {
+    margin-left: 20px;
+}
+.pricing h1 {
+    font-size: 50px;
+}
+.pricing .pss {
+    font-size: 14px;
+}
+.onm {
+    margin-top: 15px;
+}
+.img-fluid {
+    max-width: 180px;
+    height: auto;
+}
+.amazing .img-fluid {
+    width: 350px;
+    margin-left: 50px;
+}
+.amazon {
+  padding: 0px;
+  margin-left: 50px;
+}
+.amazing h1 {
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.proms a {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+.promo a {
+    padding: 15px 30px;
+    font-size: 20px;
+}
+.best h1 {
+    font-size: 40px;
+    margin-top: 20px;
+}
+.best .img-fluid {
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.subscribe .btn-primary {
+    padding: 7px 5px;
+    position: none;
+}
+.our h1 {
+    font-size: 40px;
+}
+.subscribe input {
+    width: 45%;
+    padding: 7px 1px;
+}
+.simon h1 {
+    font-size: 40px;
+}
+.subscribe h1 {
+    font-size: 40px;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+.amazing .img-fluid {
+    width: 450px;
+    /* margin-left: 50px; */
+    margin-left: 100px;
+}
+}
+@media (min-width: 1025px) and (max-width: 1326px){
+
+
+}

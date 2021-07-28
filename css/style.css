@@ -1,0 +1,487 @@
+*{
+	margin: 0;
+	padding: 0;
+	}
+	body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:14px;
+	line-height: 24px;
+	}		
+	h1,h2,h3,h4,h5,h6{
+	font-family: 'Source Sans Pro', sans-serif;
+	}
+	a,a:hover{
+	text-decoration: none;
+	}
+	.header{
+		width: 100%;
+		background: url("../images/copy.PNG") center top no-repeat;
+		background-size: cover;
+	   padding: 0px;
+	}
+	.navbar-brand{
+		width: 110px;
+		
+	}
+	.bg-light {
+    background-color: #696969!important;
+   }
+   .fa-bars{
+    color: #fff;
+   }
+   .navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+   .navbar-light .navbar-nav .nav-link {
+   font-size: 15px;
+   line-height: 30px;
+   font-weight: 550;
+   color: #fff;
+   margin: 0px 5px;
+   text-transform: uppercase;
+  }
+   .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus{
+   	color: #e8631c;
+   }
+   .header-txt{
+   	width: 100%;
+   	padding: 130px 0px;
+   }
+   .header-txt h1{
+   	font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+    margin-top: 180px;
+   	font-family: 'Oswald', sans-serif;
+   }
+   .header-txt p{
+   	font-size: 20px;
+   	line-height: 26px;
+   	font-weight: 200;
+   	color: #fff;
+   	letter-spacing: 2px;
+   	font-family: 'Oswald', sans-serif;
+   	margin-bottom: 40px;
+   }
+   .header-txt .btn-info{
+   	font-size: 20px;
+   	line-height: 30px;
+   	font-weight: 600;
+   	color: #fff;
+   	padding: 12px 50px;
+   	background: #e8631c;
+   	border: none;
+   	text-transform: uppercase;
+   }
+     .header-txt .btn-info:hover,  .header-txt .btn-info:focus{
+     	background: #fff;
+     	color: #000;
+     	border: 1px solid #000;
+     }
+     /********************************/
+     .dance{
+     	width: 100%;
+		background: url("../images/p4.PNG") center top no-repeat;
+		background-size: cover;
+		padding: 80px 0px;
+     }
+     .dance h1{
+    font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-bottom: 20px;
+     }
+     .tct{
+     	text-align: center;
+     }
+      .dance p{
+     font-size: 20px;
+   	line-height: 26px;
+   	font-weight: 200;
+   	color: #fff;
+   	letter-spacing: 2px;
+   	font-family: 'Oswald', sans-serif;
+   	margin-bottom: 40px;
+      }
+      .card{
+      	background: #303030;
+      	margin-top: 40px;
+      }
+      .card-title{
+      	font-size: 30px;
+      	line-height: 40px;
+      	font-weight: 600;
+      	color: #fff;
+      	text-align: center;
+      	text-transform: uppercase;
+      }
+   .card-body .card-text {
+    font-size: 20px;
+   	line-height: 26px;
+   	font-weight: 200;
+   	color: #fff;
+   	text-align: center;
+   	letter-spacing: 1px;
+   	margin-top: 20px;
+   	margin-bottom: 20px;
+    }
+    /***************************/
+    .pricing{
+    	width: 100%;
+		background: url("../images/l1.PNG") center top no-repeat;
+		background-size: cover;
+		padding: 80px 0px;
+    }
+     .pricing h1{
+    font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-bottom: 20px;
+     }
+    .pricing .pss {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 80px;
+	}
+     .txt{
+     	text-align: center;
+     }
+    .onm{
+    	text-align: center;
+    	background: #e8631c;
+    	padding: 12px 50px;
+    }
+    .pricing img{
+
+    	width: 140px;
+    	margin-top: 20px;
+    }
+    .pricing h3{
+    	font-size: 30px;
+    	line-height: 40px;
+    	font-weight: 600;
+    	color: #fff;
+    	text-transform: uppercase;
+    	margin-top: 0px;
+    }
+     .pricing p{
+     	font-size: 20px;
+     	line-height: 30px;
+     	font-weight: 400;
+     	color: #fff;
+     	margin-top: 20px;
+     	margin-bottom: 20px;
+     }
+     .pricing .txti{
+     	background: #303030;
+     	margin-bottom: 30px;
+     	padding: 12px;
+
+     }
+      .pricing .txti a{
+      	font-size: 20px;
+     	line-height: 30px;
+     	font-weight: 400;
+     	color: #fff;
+      }
+      /***********************************/
+      /***************amazing code start********************/
+      .amazing{
+      	width: 100%;
+		background: url("../images/sssy.PNG") center top no-repeat;
+		background-size: cover;
+		height: 915px;
+      }
+      .amazing h1{
+     font-size: 60px;
+   	line-height: 70px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-top: 240px;
+    }
+    
+
+    .amazon{
+    	
+    	padding: 50px;
+    }
+ .amazing p{
+ 	font-size: 25px;
+ 	line-height: 30px;
+ 	font-weight: 400;
+ 	color: #fff;
+ 	letter-spacing: 2px;
+ 	margin-top: 40px;
+ }
+ .promo{
+ 	margin-top: 62px;
+ }
+.amazing .img-fluid {
+    max-width: 675px;
+    height: auto;
+}
+ .promo a{
+ 	background: #303030;
+ 	padding: 15px 70px;
+ 	font-size: 25px;
+ 	line-height: 35px;
+ 	font-weight: 600;
+ 	text-transform: uppercase;
+ 	color: #fff;
+ }
+ /**********************************/
+ /***********best code start************************/
+ .best{
+ 	width: 100%;
+	background: url("../images/llll.png") center top no-repeat;
+	background-size: cover;
+  height: 895px;
+ }
+ .best h1{
+ 	 font-size: 60px;
+   	line-height: 70px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-top: 220px;
+ }
+ .best p{
+ 	font-size: 25px;
+ 	line-height: 30px;
+ 	font-weight: 400;
+ 	color: #fff;
+ 	letter-spacing: 2px;
+ 	margin-top: 40px;
+ }
+ .proms{
+ 	margin-top: 62px;
+ }
+.best .img-fluid {
+    max-width: 660px;
+    height: auto;
+    margin: 0px auto;
+    margin-top: 10px;
+    bottom: 7px;
+}
+ .proms a{
+ 	background: #303030;
+ 	padding: 15px 70px;
+ 	font-size: 25px;
+ 	line-height: 35px;
+ 	font-weight: 600;
+ 	text-transform: uppercase;
+ 	color: #fff;
+ }
+/****************************************/
+/*************our code start************************/
+.our{
+	width: 100%;
+	background: #303030;
+	padding: 80px 0px;
+}
+.our h1{
+	 font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-top: 0px;
+}
+.our p{
+	font-size: 25px;
+ 	line-height: 30px;
+ 	font-weight: 400;
+ 	color: #fff;
+ 	letter-spacing: 2px;
+ 	margin-bottom: 80px;
+}
+.our-txt{
+	text-align: center;
+}
+.txet h4{
+	font-size: 45px;
+	line-height: 35px;
+	font-weight: 600;
+	color: #fff;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 30px;
+}
+.txet{
+	text-align: center;
+}
+.txet p{
+	font-size: 35px;
+	color: #fff;
+}
+/*************our code end************************/
+.simon{
+	width: 100%;
+	background: url("../images/s2.png") center top no-repeat;
+	background-size: cover;
+	padding: 80px 0px;
+}
+.simon .img-fluid{
+  width: 100%;
+  height: auto;
+}
+.simon p{
+	font-size: 25px;
+ 	line-height: 30px;
+ 	font-weight: 400;
+ 	color: #fff;
+ 	margin-bottom: 40px;
+}
+.simon h1{
+	font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+}
+.simon-txt{
+	text-align: center;
+	padding: 300px 0px;
+}
+/***********************************/
+.subscribe{
+	width: 100%;
+	background: url("../images/gg.png") center top no-repeat;
+	background-size: cover;
+	padding: 40px 0px;
+}
+.subscribe .img-fluid{
+  width: 100%;
+  height: auto;
+}
+.subscribe p{
+	font-size: 25px;
+ 	line-height: 30px;
+ 	font-weight: 400;
+ 	color: #fff;
+ 	margin-bottom: 40px;
+}
+.subscribe h1{
+	font-size: 70px;
+   	line-height: 90px;
+   	font-weight: 500;
+   	color: #fff;
+   	text-transform: uppercase;
+   	font-family: 'Oswald', sans-serif;
+   	margin-bottom: 20px;
+}
+.fffff{
+	text-align: center;
+	padding: 40px 0px;
+}
+.subscribe .btn-primary {
+    position: absolute;
+    right: 30%;
+    padding: 7px 30px;
+    border: none;
+    border-radius: 9999px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    background: #54524f;
+    font-family: 'Open Sans', sans-serif;
+}
+.subscribe input{
+    width: 45%;
+    border: none;
+    border-radius: 9999px;
+    padding: 7px 20px;
+    outline: none;
+    font-family: 'Open Sans', sans-serif;
+}
+/**************************************************/
+.footer{
+  width: 100%;
+  padding: 30px 0px;
+  background: #303030;
+
+}
+.footer p{
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 1px;
+}
+.footer h4{
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 30px;
+  margin-top: 40px;
+  text-transform: uppercase;
+}
+.icon{
+  width: 100%;
+  padding: 40px 0px;
+}
+.icon ul{
+  list-style: none;
+  margin-left: -50px
+}
+.icon ul li{
+  margin: 0px 15px;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  color: #000;
+  font-size: 20px;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 50%;
+}
+
+.icon ul li:hover{
+  background: #e8631c;
+  border: 1px solid #fff;
+  color: #fff;
+}
+.footer .copyright{
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+
+}
+.footer-service h3{
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.footer-service p{
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #fff;
+}
+.foot{
+  text-align: center;
+}
